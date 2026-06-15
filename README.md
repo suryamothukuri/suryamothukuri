@@ -1,76 +1,200 @@
-# Hi, I'm Surya Teja Mothukuri 👋
----
+<div align="center">
 
-## 🚀 About Me
-I’m a Data Science grad student and engineer who likes building **end-to-end, production-minded ML systems** — from messy data ingestion and feature engineering to model evaluation, interpretability, and automation.
+<h1>Hi, I'm Surya Teja Mothukuri 👋</h1>
 
-I’ve worked across:
-- **Clinical ML (EHR feature engineering + risk modeling)**
-- **Automation engineering (Python/PowerShell + SQL + CI/CD)**
-- **Computer vision (defect detection, augmentation, deep learning)**  
-- **LLM applications (RAG pipelines, multi-agent workflows, prompt engineering)**
+<p>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="AI GIF" width="225" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="370" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF" width="225" />
+</p>
 
-If you’re hiring for **Data Science / ML Engineer / Applied Scientist / Data & Analytics / GenAI** roles, I’d love to connect.
+<h3>Data Scientist & AI Engineer building practical ML systems from messy data to measurable decisions.</h3>
 
----
+<p>
+I work across <b>machine learning, GenAI, analytics engineering, automation, and applied AI</b> — with experience in healthcare ML, demand forecasting, NLP, computer vision, and production-minded data pipelines.
+</p>
 
-## 🧠 What I’m good at
-**Machine Learning:** model selection, leakage-safe validation, calibration, threshold optimization, error analysis, explainability (SHAP)  
-**GenAI / NLP:** RAG pipelines, LangChain, LoRA, transformers, embeddings, topic modeling (BERTopic), sentiment analysis  
-**Data Engineering:** multi-source joins, schema validation, ETL, SQL optimization, data quality checks, reproducible pipelines  
-**MLOps mindset:** experiment tracking, cross-validation, metric-driven iteration, reliable automation, monitoring-first thinking
+<p>
+  <a href="mailto:suryamothuk23@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/surya-mothukuri/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
----
+<p>
+<b>Data Science</b> • <b>AI Engineering</b> • <b>Machine Learning</b> • <b>GenAI / RAG</b> • <b>NLP</b> • <b>Analytics Engineering</b>
+</p>
 
-## 🛠️ Tech Stack
-**Languages:** Python • SQL • R • PowerShell • Bash • C  
-**ML/NLP:** PyTorch • TensorFlow/Keras • scikit-learn • Hugging Face • Transformers • OpenCV  
-**GenAI:** GPT-4 • LangChain • RAG • LoRA • Prompt Engineering • RLHF concepts  
-**Data:** Pandas • NumPy • SciPy • PySpark • NLTK  
-**Tools/DB:** Git • MLflow • Tableau • Power BI • MySQL • MongoDB • SQLite • Snowflake • Jupyter
-
----
-
-## 📌 Impact Highlights
-- Built an EHR feature engineering workflow across **90,000+** surgical encounters; engineered **200+** features for clinical ML.
-- Benchmarked RF/XGBoost with **5-fold CV + held-out testing**, achieving **AUROC 0.82** with strong calibration (**Brier 0.14**).
-- Increased recall of high-risk patients by **13%** at a fixed precision target using threshold tuning + PR tradeoffs.
-- Eliminated **~180 staff hours/month** by building **15** automation workflows (ingestion, validation, exception routing, archival).
-- Reduced dashboard refresh to **<30 minutes** and cut compute cost by **33%** via optimized SQL/Snowflake ETL.
-- Improved CV defect detection: achieved **0.91 recall** and reduced false negatives by **50%** using augmentation + ResNet retraining.
+</div>
 
 ---
 
-## 🧪 Projects
-### 🤖 Autonomous Multi-Agent Bargain Spotter (RAG-Enhanced LLMs)
-- Multi-agent retrieval + grounding workflow with GPT-4; improved deal discovery efficiency by **40%**
-- Real-time retrieval + alerting pipeline; automated **95%** of offer notifications
+## 🧭 What I Build
 
-### 🧵 Generative AI in Online Discourse (Reddit Social Media Analysis)
-- Analyzed **100,000+** posts/comments using VADER + BERTopic for sentiment/topic shifts
-- Built a domain-tuned NLTK normalization pipeline for noisy GenAI text to improve clustering quality
+I like building systems where the work does not stop at model training.
 
-### 💳 Loan Repayment Risk Modeling (Multi-Source Validation)
-- Engineered **142** features from multi-table credit datasets (app + bureau + prior loans)
-- Achieved **ROC-AUC 0.7724** with leakage-safe scikit-learn pipelines
+My favorite problems look like this:
 
-### 🌱 Lifestyle Carbon Footprint Estimator (Streamlit)
-- Trained 6 regressors with GridSearchCV; best **R² = 0.87**
-- Streamlit app with 18 lifestyle inputs + real-time prediction pipeline (CatBoost deployment)
+```text
+raw messy data
+   ↓
+validated pipelines
+   ↓
+features that actually mean something
+   ↓
+models evaluated the right way
+   ↓
+interpretable decisions
+   ↓
+automation that people can trust
+```
 
-### 🗣️ Alzheimer’s Detection via Speech Signals
-- Extracted **180+** acoustic features (openSMILE/Librosa), selected top 30 via RFE
-- Achieved **92%** accuracy using SVM/RF/CNN approaches
+I care about **clean pipelines, leakage-safe evaluation, measurable improvement, interpretability, and shipping work that survives outside a notebook**.
 
 ---
 
-## 📫 Let’s connect
-- Email: **suryamothuk23@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/surya-mothukuri/**
+## ⚡ Proof in Numbers
+
+| Area | Impact |
+|---|---:|
+| Demand forecasting & operations | **10M+** transactions modeled |
+| Procurement optimization | **~$1.7M** annual savings |
+| Spend reduction | **18%** lower excess procurement spend |
+| Healthcare ML | **90k+** surgical encounters processed |
+| Clinical feature engineering | **200+** EHR-derived features |
+| Risk modeling | **AUROC 0.82**, Brier **0.14** |
+| Automation engineering | **~180 staff hours/month** saved |
+| Data pipelines | Refresh latency cut by **40%** |
+| Computer vision | **0.91 recall**, false negatives cut by **50%** |
+
 ---
 
-### ⭐ If you’re a recruiter
-I’m actively looking for **Summer 2026 internships / Full-time opportunities (May 2026)** in:
-**Data Science • Machine Learning • Applied Scientist • ML Engineer • GenAI / NLP • Analytics Engineering**
+## 🧠 My Core Stack
 
-> I care about: clean pipelines, measurable improvements, reproducible results, and shipping work that others can trust.
+### 🤖 Machine Learning & Modeling
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-2C5BB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge" />
+</p>
+
+### 🧬 Deep Learning & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNNs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ResNet-0F172A?style=for-the-badge" />
+</p>
+
+### 🧠 GenAI, NLP & Agents
+
+<p>
+  <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRA-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERTopic-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge" />
+</p>
+
+### 🏗️ Data Engineering & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### 📊 BI, Cloud & Engineering Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🔍 How I Think About ML Systems
+
+I try to avoid treating ML as just model fitting.
+
+For every project, I usually think through:
+
+```text
+1. Is the data reliable?
+2. Is the validation setup leakage-safe?
+3. Is the metric aligned with the real decision?
+4. Can the model explain its behavior?
+5. Can the pipeline be repeated?
+6. Can someone else trust and use the output?
+```
+
+That mindset comes from working across healthcare, operations, analytics, and automation — where mistakes are expensive and reliability matters.
+
+---
+
+## 🎯 Currently Looking For
+
+I’m actively looking for **Summer 2026 internships** and **full-time opportunities starting July 2026** across **Data Science, AI Engineering, Machine Learning Engineering, Applied Scientist, GenAI/NLP, and Analytics Engineering** roles.
+
+**Areas I’m excited about:**  
+
+`Applied ML` • `LLM Applications` • `Healthcare AI` • `Forecasting` • `Data Products` • `Decision Intelligence`
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to conversations around ML systems, GenAI applications, healthcare AI, data products, and early-career AI/Data Science opportunities.
+
+<div align="center">
+
+<p>
+  <a href="mailto:suryamothuk23@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/surya-mothukuri/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<h3>Building practical AI systems — one reliable pipeline at a time.</h3>
+
+<p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRqNWdhc2N1c2hpOHJ5bjU3eGZwYms4b29reXV2cHZlZmozbGg4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xejfwiUhEjLZePNWuP/giphy.gif" alt="AI GIF" width="225" />
+</p>
+
+</div>
