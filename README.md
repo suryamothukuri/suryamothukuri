@@ -23,7 +23,7 @@ I work across <b>machine learning, GenAI, analytics engineering, automation, and
   <a href="https://www.linkedin.com/in/surya-mothukuri/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+  <a href="https://suryamothukuri.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -186,7 +186,7 @@ I’m always open to conversations around ML systems, GenAI applications, health
   <a href="https://www.linkedin.com/in/surya-mothukuri/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+  <a href="https://suryamothukuri.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
