@@ -3,11 +3,11 @@
 <h1>Hi, I'm Surya Teja Mothukuri 👋</h1>
 
 <p>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="AI GIF" width="225" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="AI GIF" width="180" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="370" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="310" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF" width="225" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF" width="180" />
 </p>
 
 <h3>Data Scientist & AI Engineer building practical ML systems from messy data to measurable decisions.</h3>
